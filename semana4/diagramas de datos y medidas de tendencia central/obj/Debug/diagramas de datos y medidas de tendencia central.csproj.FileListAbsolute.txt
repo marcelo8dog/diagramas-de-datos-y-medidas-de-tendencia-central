@@ -1,0 +1,10 @@
+C:\Users\rober\Documents\.- PROGRAMACION\programas\semana4\diagramas de datos y medidas de tendencia central\bin\Debug\diagramas de datos y medidas de tendencia central.exe.config
+C:\Users\rober\Documents\.- PROGRAMACION\programas\semana4\diagramas de datos y medidas de tendencia central\bin\Debug\diagramas de datos y medidas de tendencia central.exe
+C:\Users\rober\Documents\.- PROGRAMACION\programas\semana4\diagramas de datos y medidas de tendencia central\bin\Debug\diagramas de datos y medidas de tendencia central.pdb
+C:\Users\rober\Documents\.- PROGRAMACION\programas\semana4\diagramas de datos y medidas de tendencia central\obj\Debug\diagramas de datos y medidas de tendencia central.csprojAssemblyReference.cache
+C:\Users\rober\Documents\.- PROGRAMACION\programas\semana4\diagramas de datos y medidas de tendencia central\obj\Debug\diagramas_de_datos_y_medidas_de_tendencia_central.Form1.resources
+C:\Users\rober\Documents\.- PROGRAMACION\programas\semana4\diagramas de datos y medidas de tendencia central\obj\Debug\diagramas_de_datos_y_medidas_de_tendencia_central.Properties.Resources.resources
+C:\Users\rober\Documents\.- PROGRAMACION\programas\semana4\diagramas de datos y medidas de tendencia central\obj\Debug\diagramas de datos y medidas de tendencia central.csproj.GenerateResource.cache
+C:\Users\rober\Documents\.- PROGRAMACION\programas\semana4\diagramas de datos y medidas de tendencia central\obj\Debug\diagramas de datos y medidas de tendencia central.csproj.CoreCompileInputs.cache
+C:\Users\rober\Documents\.- PROGRAMACION\programas\semana4\diagramas de datos y medidas de tendencia central\obj\Debug\diagramas de datos y medidas de tendencia central.exe
+C:\Users\rober\Documents\.- PROGRAMACION\programas\semana4\diagramas de datos y medidas de tendencia central\obj\Debug\diagramas de datos y medidas de tendencia central.pdb
